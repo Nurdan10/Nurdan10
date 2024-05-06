@@ -35,11 +35,18 @@ You can click the Preview link to take a look at your changes.
 <h2 align="center">:zap: Stats :zap:</h2>
 <br>
 <div align=center>
- <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=Nurdan10&theme=react">
+<!-- <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=Nurdan10&theme=react">
   <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=Nurdan10&theme=react" />
   <img width="440px" src="https://github-readme-stats.vercel.app/api?username=Nurdan10&show_icons=true&theme=react">
   <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Nurdan10&layout=compact&theme=react" />
+ -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nurdan10&show_icons=true&locale=en&layout=compact" alt="nurdan10" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nurdan10&show_icons=true&locale=en" alt="nurdan10" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nurdan10&" alt="nurdan10" /></p>
   <br/>
 
 </div>
+
+

@@ -25,10 +25,10 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/cakir-nurdan" target="blank">
+<a href="https://linkedin.com/in/cakir-nurdan" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
- <!-- <a href="https://linkedin.com/in/www.linkedin.com/in/cakir-nurdan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/cakir-nurdan" height="30" width="40" /></a> -->
+<!-- <a href="https://linkedin.com/in/cakir-nurdan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cakir-nurdan" height="30" width="40" /></a> -->
 <!-- <a href="https://kaggle.com/nurdancakir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nurdancakir" height="30" width="40" /></a> -->
  <a href="https://kaggle.com/nurdancakir" target="blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />

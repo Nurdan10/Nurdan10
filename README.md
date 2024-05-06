@@ -27,6 +27,7 @@ You can click the Preview link to take a look at your changes.
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/cakir-nurdan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/cakir-nurdan" height="30" width="40" /></a>
 <a href="https://kaggle.com/nurdancakir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nurdancakir" height="30" width="40" /></a>
+ <a href="https://medium.com/@caknurdan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@caknurdan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

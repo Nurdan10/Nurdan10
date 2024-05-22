@@ -40,7 +40,7 @@ You can click the Preview link to take a look at your changes.
   </a>
   </a>
     <a href="https://public.tableau.com/app/profile/nurdan.cakir/vizzes" target="blank"> 
-    <img src="https://www.svgrepo.com/svg/354427/tableau" />
+    <img src="https://cdnl.tblsft.com/sites/default/files/pages/tableau_cmyk_2015.png" />
   </a>
 </p>
 

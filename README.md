@@ -40,7 +40,7 @@ You can click the Preview link to take a look at your changes.
   </a>
   </a>
     <a href="https://public.tableau.com/app/profile/nurdan.cakir/vizzes" target="blank"> 
-    <img src="https://cdnl.tblsft.com/sites/default/files/pages/tableau_cmyk_2015.png" "style=for-the-badge&logo=medium&logoColor=white" />
+    <img src="https://cdnl.tblsft.com/sites/default/files/pages/tableau_cmyk_2015.png?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
 </p>
 

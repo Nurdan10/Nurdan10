@@ -40,7 +40,7 @@ You can click the Preview link to take a look at your changes.
   </a>
   </a>
     <a href="https://public.tableau.com/app/profile/nurdan.cakir/vizzes" target="blank"> 
-    <img src="https://img.shields.io/badge/Tableau-1188?style=for-the-badge&logo=Tableau&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" target="_blank" />
   </a>
 </p>
 

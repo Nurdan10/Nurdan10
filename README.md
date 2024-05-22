@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🌱 I’m currently learning **Python, SQL and several data analysis technologies**
 
-- 👯 I’m looking to collaborate on **data analysis projects, open source software development.**
+- 👯 I’m looking to collaborate on **data analysis and visualization projects.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nurdan10](https://github.com/Nurdan10)
  
@@ -37,6 +37,10 @@ You can click the Preview link to take a look at your changes.
 </a>
     <a href="https://medium.com/@caknurdan" target="blank"> 
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  </a>
+    <a href="https://public.tableau.com/app/profile/nurdan.cakir/vizzes" target="blank"> 
+    <img src="https://img.shields.io/badge/Tableau-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
 </p>
 

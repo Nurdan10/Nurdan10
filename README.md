@@ -3,15 +3,15 @@ Nurdan10/Nurdan10 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi 👋, I'm Nurdan Cakir</h1>
-<h3 align="center">A passionate Data Analyst from Germany</h3>
+<h3 align="center">A passionate Data Scientist from Germany</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nurdan10&label=Profile%20views&color=0e75b6&style=flat" alt="nurdan10" /> </p>
 
 - 🔭 I’m currently working on [Statistik Projektarbeit](https://github.com/Nurdan10/Stats/tree/main/Statistik)
 
-- 🌱 I’m currently learning **Python, SQL and several data analysis technologies**
+- 🌱 I have already learnt **Python, SQL, Machine Learning and several data analysis/science technologies**
 
-- 👯 I’m looking to collaborate on **data analysis and visualization projects.**
+- 👯 I’m looking to collaborate on **data analysis/visualization and machine learning projects.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nurdan10](https://github.com/Nurdan10)
  

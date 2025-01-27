@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nurdan10&label=Profile%20views&color=0e75b6&style=flat" alt="nurdan10" /> </p>
 
-- 🔭 I’m currently working on [E_Commerce Data Analysis](https://github.com/Nurdan10/RDB-SQL/blob/3f4b8f822aca6209a2adad674f52cc21d212c16d/SQLQuery_E_commerce.sql)
+- 🔭 I’m currently working on [Statistik Projektarbeit](https://github.com/Nurdan10/Stats/tree/main/Statistik)
 
 - 🌱 I’m currently learning **Python, SQL and several data analysis technologies**
 

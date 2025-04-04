@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nurdan10&label=Profile%20views&color=0e75b6&style=flat" alt="nurdan10" /> </p>
 
-- 🔭 I’m currently working on [Statistik Projektarbeit](https://github.com/Nurdan10/Stats/tree/main/Statistik)
+- 🔭 I’m currently working on [Python-tkinterGUI Projektarbeit](https://github.com/Nurdan10/Python_Abschlussprojekt)
 
 - 🌱 I have already learnt **Python, SQL, Machine Learning and several data analysis/science technologies**
 

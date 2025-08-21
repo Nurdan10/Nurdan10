@@ -9,9 +9,9 @@ You can click the Preview link to take a look at your changes.
 
 - 🔭 I have recently completed [Data Analyst | Rental Price Analysis in Germany (Project Work)](https://github.com/Nurdan10/Projektarbeit_Plotly_Dash)
 
-- 🌱 I have already learnt **Python, SQL, Machine Learning and several data analysis/science technologies**
-
 - 👯 I’m looking to collaborate on **data analysis/visualization and machine learning projects.**
+  
+- 🌱 I have already learnt **Python, SQL, Machine Learning and several data analysis/science technologies**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nurdan10](https://github.com/Nurdan10)
  

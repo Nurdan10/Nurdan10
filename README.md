@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nurdan10&label=Profile%20views&color=0e75b6&style=flat" alt="nurdan10" /> </p>
 
-- 🔭 I’m currently working on [Data Analyst/Analyse der Mietpreis in Deutschland(Projektarbeit)](https://github.com/Nurdan10/Projektarbeit_Plotly_Dash)
+- 🔭 I have recently completed [Data Analyst | Rental Price Analysis in Germany (Project Work)](https://github.com/Nurdan10/Projektarbeit_Plotly_Dash)
 
 - 🌱 I have already learnt **Python, SQL, Machine Learning and several data analysis/science technologies**
 

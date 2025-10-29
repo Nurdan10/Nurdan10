@@ -21,6 +21,8 @@ You can click the Preview link to take a look at your changes.
   
 - 📫 How to reach me **caknurdan@gmail.com**
 
+- https://drive.google.com/file/d/1uTygbSgm-J-a81mK810XsJRzomjAfTnY/view?usp=sharing
+
 - 📄 Know about my experiences [https://docs.google.com/document/d/1i8pJk7cYTRHiNaSYa3z-iDUmvAXnpt_t/edit?usp=drive_link&ouid=105007181864512133688&rtpof=true&sd=true](https://docs.google.com/document/d/1i8pJk7cYTRHiNaSYa3z-iDUmvAXnpt_t/edit?usp=drive_link&ouid=105007181864512133688&rtpof=true&sd=true)
 
 - ⚡ Fun fact **My greatest ambition is to discover and learn new things since my childhood.**

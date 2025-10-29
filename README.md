@@ -7,6 +7,8 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nurdan10&label=Profile%20views&color=0e75b6&style=flat" alt="nurdan10" /> </p>
 
+- 🚧 Currently working on sustainability-focused data projects, including carbon footprint analysis and data availability optimization as part of an internship in the field of Data & Strategy.
+
 - 🔭 I have recently completed [Data Analyst | Rental Price Analysis in Germany (Project Work)](https://github.com/Nurdan10/Projektarbeit_Plotly_Dash)
 
 - 👯 I’m looking to collaborate on **data analysis/visualization and machine learning projects.**
